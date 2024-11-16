@@ -1,0 +1,76 @@
+{
+  "restaurants": [
+    {
+      "id": "6c7bqjgi84kcowlqdz",
+      "name": "Bring Your Phone Cafe",
+      "description": "Bring Your Phone Cafe is a modern, tech-friendly cafe that encourages its patrons to stay connected. With free high-speed Wi-Fi, multiple charging stations, and a cozy ambiance, it’s perfect for people looking to work remotely or meet friends while staying digitally engaged. The cafe offers a variety of coffee drinks, pastries, and light meals, ideal for snacking while you browse or work. Whether you're a digital nomad, student, or casual diner, you'll love this space for both its practicality and style.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/41",
+      "city": "Medan",
+      "rating": 4.6
+    },
+    {
+      "id": "ljx8i0qu2uckcowlqdz",
+      "name": "Run The Gun",
+      "description": "Run The Gun is a fast-paced eatery designed for people on the go. Specializing in hearty and nutritious meals that can be prepared quickly, it’s the ideal spot for busy professionals or athletes who want to grab a quick but satisfying bite. The menu features a range of protein-packed options, fresh salads, wraps, and smoothies. With a focus on speed without compromising taste, Run The Gun delivers delicious meals to fuel your day, perfect for those who are constantly on the move.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/07",
+      "city": "Bali",
+      "rating": 4.6
+    },
+    {
+      "id": "fe8bbxoazddkcowlqdz",
+      "name": "Pangsit Express",
+      "description": "Pangsit Express is a quick-service restaurant specializing in delicious dumplings and noodle dishes. Whether you're craving traditional pangsit (wontons), fried or steamed dumplings, or a comforting bowl of noodles, this place offers speedy service without skimping on flavor. Popular among lunch crowds and families, Pangsit Express delivers authentic Asian flavors in a casual setting. Pair your dumplings with their signature dipping sauces, and you’ll have a meal that’s both satisfying and convenient.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/29",
+      "city": "Ternate",
+      "rating": 4.8
+    },
+    {
+      "id": "ik1zljmlf68kcowlqdz",
+      "name": "Ducky Duck",
+      "description": "Ducky Duck is a charming, family-friendly restaurant known for its playful duck-themed decor and hearty comfort food. The warm, whimsical atmosphere is perfect for both kids and adults, with duck motifs adorning everything from the walls to the menu. Specializing in a mix of casual dining favorites like crispy fried chicken, savory duck dishes, and homestyle sides, Ducky Duck offers something for everyone. Their signature dishes include succulent roasted duck, crispy duck wings, and fun, duck-shaped desserts. Whether you're dining with family or catching up with friends, Ducky Duck brings a quirky, fun experience to the table with delicious meals and a welcoming vibe.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/38",
+      "city": "Malang",
+      "rating": 4.7
+    },
+    {
+      "id": "9jpuzkm6n6jkcowlqdz",
+      "name": "Kafein",
+      "description": "Kafein is a trendy urban cafe catering to coffee aficionados and creative souls. Known for its artisanal coffee blends and minimalist design, it’s a haven for those who appreciate both caffeine and quiet spaces. Kafein offers a curated selection of espresso drinks, pour-overs, and cold brews, alongside a menu of organic, locally sourced foods such as avocado toasts, healthy bowls, and pastries. It's the perfect spot for casual hangouts, solo coffee breaks, or remote working in a relaxed, modern setting.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/40",
+      "city": "Bali",
+      "rating": 3.8
+    },
+    {
+      "id": "cpl5jpsnuqkkcowlqdz",
+      "name": "Makan Mudah",
+      "description": "Makan Mudah, which translates to \"Easy Eating,\" offers a straightforward, no-fuss dining experience. The restaurant focuses on simple yet delicious meals that are easy to order and enjoy, from rice and noodle dishes to grilled meats and stir-fried vegetables. Ideal for casual dining or takeout, Makan Mudah delivers tasty, well-prepared food that suits people looking for a hassle-free meal. The relaxed atmosphere and affordable prices make it a go-to spot for everyday dining.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/08",
+      "city": "Malang",
+      "rating": 4.6
+    },
+    {
+      "id": "iqtf9hmdzvbkcowlqdz",
+      "name": "Saya Suka",
+      "description": "Saya Suka, meaning \"I Like It\" in Indonesian, is a vibrant eatery that serves a fusion of Asian and Western dishes, blending bold flavors with a relaxed dining atmosphere. The menu is filled with an eclectic mix of noodle dishes, rice bowls, stir-fries, and Western favorites like burgers and salads. With its friendly ambiance, reasonable prices, and flavorful offerings, Saya Suka appeals to food lovers who enjoy experimenting with different tastes and culinary cultures.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/32",
+      "city": "Surabaya",
+      "rating": 3.6
+    },
+    {
+      "id": "8i06gqcc2dpkcowlqdz",
+      "name": "Gigitan Cepat",
+      "description": "Gigitan Cepat, which translates to \"Quick Bite,\" lives up to its name by offering fast, affordable meals without sacrificing quality. This casual restaurant specializes in grab-and-go meals like sandwiches, burgers, and street food-inspired bites. Whether you're in a hurry or looking for a quick snack during the day, Gigitan Cepat provides a variety of flavorful and satisfying options to keep you fueled. With a focus on convenience, the restaurant is ideal for busy workers, students, and anyone in need of a fast but tasty meal.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/45",
+      "city": "Aceh",
+      "rating": 4
+    },
+    {
+      "id": "wf5o19xhxxkcowlqdz",
+      "name": "Fairy Cafe",
+      "description": "Step into a magical world at Fairy Cafe, where whimsical decor and enchanting dishes transport you into a fairytale. Adorned with twinkling lights, floral arrangements, and magical murals, this charming cafe is known for its themed drinks, desserts, and meals that feel straight out of a storybook. It's a favorite spot for families, date nights, and Instagram enthusiasts who love a photogenic and unique experience. The menu includes delightful treats like pastel-colored pastries, sparkling teas, and creative takes on classic comfort food.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/04",
+      "city": "Malang",
+      "rating": 3.9
+    }
+  ]
+}
