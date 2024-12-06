@@ -13,7 +13,7 @@ const Login = {
 
       <button type="submit">Login</button>
       <p class="signup">Don't have an account? <a href="#">Sign up</a></p>
-      <a>Project Brief</a>
+      <a href="https://drive.google.com/file/d/11uYt7wTzCcHHOlVxfIt7VnKhYUrPOMbn/view?usp=sharing">Project Brief</a>
     </form>
   </div>`;
   },
