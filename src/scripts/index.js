@@ -1,5 +1,5 @@
 
-import App from "./scripts/views/app";
+import App from "./views/app";
 
 
 const app = new App({body: document.querySelector('#body')});
